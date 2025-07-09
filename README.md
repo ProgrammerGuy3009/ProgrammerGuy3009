@@ -63,7 +63,7 @@ A real-time facial recognition attendance system using **OpenCV**, **face_recogn
 - 🔍 Matches student faces against a MySQL database of 100+ records.
 - 📊 Provides dashboards to track trends, generate CSV reports, and display performance insights.
 
-### 🔹 House Price Prediction App
+### 🔹 [House Price Prediction App](https://github.com/ProgrammerGuy3009/House-Price-Prediction)
 Tkinter-based desktop app using **XGBoost** to predict house prices with 85% accuracy.
 
 - 🧹 Cleaned and analyzed 10,000+ data entries.
