@@ -69,6 +69,11 @@ Tkinter-based desktop app using **XGBoost** to predict house prices with 85% acc
 - 🧹 Cleaned and analyzed 10,000+ data entries.
 - 📉 Achieved RMSE of 10,000 and R² of 0.85.
 
+### 🔹 [H1N1 Virus Dashboard](https://github.com/ProgrammerGuy3009/H1N1-Virus-Dashboard)  
+Interactive Python dashboard visualizing H1N1 case/death data (2019–2025).  
+
+- Tkinter-based multi-tab UI with Matplotlib charts  
+- Displays statewise comparisons, mortality rates & animated timelines 
 ---
 
 ## 💼 Experience
