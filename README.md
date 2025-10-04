@@ -1,9 +1,7 @@
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=1F75FE&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasoon+Tripathi!;ML+Enthusiast+%7C+Aspiring+Data+Analyst+%7C+Open+to+Opportunities;I+love+building+cool+AI+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=1F75FE&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasoon+Tripathi!;Full-Stack+Developer+%7C+ML+Enthusiast+%7C+Data+Analyst;I+love+building+cool+AI+%26+Web+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ProgrammerGuy3009&style=flat-square&color=blue" alt="profile views" />
@@ -22,40 +20,46 @@
 
 ## 💡 About Me
 
-I’m a self-driven developer with a **Bachelor of Computer Applications (BCA)** in **Data Science** from Jagannath International Management School.
+I'm a **Full-Stack Developer** and **Data Science enthusiast** with a **Bachelor of Computer Applications (BCA)** in **Data Science** from Jagannath International Management School.
 
-With hands-on experience in machine learning, full-stack development, and data visualization, I enjoy blending design with logic to solve real-world problems. I've worked on projects ranging from AI-based attendance systems to GUI-based ML apps, and actively contributed to tech communities through leadership roles, events, and internships.
+With hands-on experience in **modern web development**, **machine learning**, and **data visualization**, I enjoy building scalable applications that solve real-world problems. From **React/Next.js frontends** with **Node.js/Express backends** to **AI-powered systems**, I love creating end-to-end solutions.
 
-I'm now seeking opportunities to contribute, collaborate, and innovate in real-world tech ecosystems.
+I've worked on projects ranging from **full-stack task managers** to **facial recognition systems**, and actively contributed to tech communities through leadership roles, events, and internships.
+
+I'm now seeking opportunities to contribute, collaborate, and innovate in dynamic tech environments.
 
 ---
 
 ## 🔧 Skills & Tools
 
 ### 👨‍💻 Programming & Scripting
-`C` `Java` `Python` `SQL` `HTML` `CSS` `JavaScript`
+`C` `Java` `Python` `JavaScript (ES6+)` `SQL` `HTML5` `CSS3`
 
-### 📚 Frameworks & Libraries
+### 🌐 Full-Stack Development
+`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `MongoDB` `Mongoose` `JWT Authentication` `REST API`
+
+### 📚 Data Science & ML Libraries
 `NumPy` `Pandas` `Seaborn` `Matplotlib` `scikit-learn` `TensorFlow` `Keras` `XGBoost` `OpenCV` `KivyMD`
 
 ### 🛠️ Tools & Platforms
-`Git` `GitHub` `Jupyter Notebook` `Power BI` `Tkinter`  
+`Git` `GitHub` `Jupyter Notebook` `Power BI` `Vercel` `Railway` `Postman` `Tkinter`
 
 ### 🧠 Soft Skills
 `Leadership` `Teamwork` `Communication` `Problem Solving` `Active Listening`
 
 ---
 
-## 🏆 Achievements
-
-- 🎖️ **SIH 2023 Finalist** – Led a team to build a fitness app with real-time tracking, AI analytics, and personalized workout plans.
-- 🧑‍💼 **Secretary – Enigma IT Club** – Organized projects, mentored peers, managed events, and boosted team innovation.
-- 🎤 **Host – CYNET 2023 & 2024** – Delivered high-impact digital and in-person event experiences to 200+ attendees.
-- 🏅 **Leadership Roles** – Planned technical events, mentored junior developers, and oversaw club-level initiatives.
-
----
-
 ## 🚀 Projects
+
+### 🔹 [Full-Stack Task Manager](https://github.com/ProgrammerGuy3009/Full-stack-TaskManager)
+A modern, scalable **MERN-like** task management application with authentication, analytics, and real-time features.
+
+- **🎯 Frontend:** React.js, Next.js, Tailwind CSS with responsive design  
+- **⚡ Backend:** Node.js, Express.js with JWT authentication  
+- **💾 Database:** MongoDB with Mongoose for scalable data management  
+- **📊 Analytics:** Interactive dashboard with task statistics and progress tracking  
+- **🔐 Security:** Protected routes, user authentication, and secure API endpoints  
+- **🚀 Deployment:** Frontend on Vercel, Backend on Railway
 
 ### 🔹 [CognitoAI – Facial Recognition Attendance System](https://github.com/ProgrammerGuy3009/CognitoAI)
 A real-time facial recognition attendance system using **OpenCV**, **face_recognition**, and **KivyMD**.
@@ -73,7 +77,17 @@ Tkinter-based desktop app using **XGBoost** to predict house prices with 85% acc
 Interactive Python dashboard visualizing H1N1 case/death data (2019–2025).  
 
 - Tkinter-based multi-tab UI with Matplotlib charts  
-- Displays statewise comparisons, mortality rates & animated timelines 
+- Displays statewise comparisons, mortality rates & animated timelines
+
+---
+
+## 🏆 Achievements
+
+- 🎖️ **SIH 2023 Finalist** – Led a team to build a fitness app with real-time tracking, AI analytics, and personalized workout plans.
+- 🧑‍💼 **Secretary – Enigma IT Club** – Organized projects, mentored peers, managed events, and boosted team innovation.
+- 🎤 **Host – CYNET 2023 & 2024** – Delivered high-impact digital and in-person event experiences to 200+ attendees.
+- 🏅 **Leadership Roles** – Planned technical events, mentored junior developers, and oversaw club-level initiatives.
+
 ---
 
 ## 💼 Experience
@@ -95,17 +109,24 @@ Interactive Python dashboard visualizing H1N1 case/death data (2019–2025).
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kivy-0C4B33?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/>
 </p>
 
 ---
@@ -127,4 +148,4 @@ Interactive Python dashboard visualizing H1N1 case/death data (2019–2025).
 
 ---
 
-*Thanks for visiting my profile! Let’s build something amazing together.* 🚀
+*Thanks for visiting my profile! Let's build something amazing together.* 🚀
