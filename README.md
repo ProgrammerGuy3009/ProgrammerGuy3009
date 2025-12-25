@@ -101,7 +101,7 @@ Interactive Python dashboard visualizing H1N1 case/death data (2019–2025).
 ## 💼 Experience
 
 ### 💻 Frontend Developer Intern — *FlameCloud LLP*  
-**(June 2024 – July 2024)**  
+**(January 2024 – January 2025)**  
 - Fixed 50+ UI bugs during multi-stage testing and improved frontend performance.
 - Acted as liaison between clients and developers, resolving 15+ issues in a week.
 - Collaborated in Agile environment, improving sprint delivery efficiency.
