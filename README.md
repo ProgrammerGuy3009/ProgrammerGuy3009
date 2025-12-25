@@ -1,4 +1,3 @@
-<!-- Typing animation header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=1F75FE&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasoon+Tripathi!;Full-Stack+Developer+%7C+ML+Enthusiast+%7C+Data+Analyst;I+love+building+cool+AI+%26+Web+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
@@ -25,27 +24,6 @@ I'm a **Full-Stack Developer** and **Data Science enthusiast** with a **Bachelor
 With hands-on experience in **modern web development**, **machine learning**, and **data visualization**, I enjoy building scalable applications that solve real-world problems. From **React/Next.js frontends** with **Node.js/Express backends** to **AI-powered systems**, I love creating end-to-end solutions.
 
 I've worked on projects ranging from **full-stack task managers** to **facial recognition systems**, and actively contributed to tech communities through leadership roles, events, and internships.
-
-I'm now seeking opportunities to contribute, collaborate, and innovate in dynamic tech environments.
-
----
-
-## 🔧 Skills & Tools
-
-### 👨‍💻 Programming & Scripting
-`C` `Java` `Python` `JavaScript (ES6+)` `SQL` `HTML5` `CSS3`
-
-### 🌐 Full-Stack Development
-`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `MongoDB` `Mongoose` `JWT Authentication` `REST API`
-
-### 📚 Data Science & ML Libraries
-`NumPy` `Pandas` `Seaborn` `Matplotlib` `scikit-learn` `TensorFlow` `Keras` `XGBoost` `OpenCV` `KivyMD`
-
-### 🛠️ Tools & Platforms
-`Git` `GitHub` `Jupyter Notebook` `Power BI` `Vercel` `Railway` `Postman` `Tkinter`
-
-### 🧠 Soft Skills
-`Leadership` `Teamwork` `Communication` `Problem Solving` `Active Listening`
 
 ---
 
@@ -100,20 +78,16 @@ Interactive Python dashboard visualizing H1N1 case/death data (2019–2025).
 
 ## 💼 Experience
 
-### 💻 Frontend Developer Intern — *FlameCloud LLP*  
-**(January 2024 – January 2025)**  
-- Fixed 50+ UI bugs during multi-stage testing and improved frontend performance.
+### 💻 Frontend Developer Intern — *FlameCloud LLP* **(June 2024 – July 2024)** - Fixed 50+ UI bugs during multi-stage testing and improved frontend performance.
 - Acted as liaison between clients and developers, resolving 15+ issues in a week.
 - Collaborated in Agile environment, improving sprint delivery efficiency.
 
-### 🧠 Developer Manager — *Enigma IT Club*  
-**(Jan 2022 – Dec 2023)**  
-- Built and maintained college website with 99% uptime.
+### 🧠 Developer Manager — *Enigma IT Club* **(Jan 2022 – Dec 2023)** - Built and maintained college website with 99% uptime.
 - Managed CYNET, leading a 30-member team to host a tech event for 500+ attendees.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🔧 Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -135,15 +109,6 @@ Interactive Python dashboard visualizing H1N1 case/death data (2019–2025).
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerGuy3009&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerGuy3009&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
