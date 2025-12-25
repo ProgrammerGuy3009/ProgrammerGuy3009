@@ -51,6 +51,14 @@ I'm now seeking opportunities to contribute, collaborate, and innovate in dynami
 
 ## 🚀 Projects
 
+### 🔹 [DocuChat AI – GenAI PDF Assistant](https://github.com/ProgrammerGuy3009/docuchat-rag)
+A full-stack **Generative AI application** that enables users to "chat" with PDF documents in real-time using advanced retrieval techniques.
+
+- **🧠 Hybrid RAG Architecture:** Combines vector search with keyword retrieval to deliver highly accurate, **context-aware answers**.
+- **⚡ High Performance:** Optimized inference pipeline achieving **sub-200ms latency**, moving beyond basic API wrappers.
+- **📄 Document Intelligence:** Ingests and processes complex PDF structures to maintain conversational context.
+- **🛠️ Tech Stack:** Python, LangChain, Pinecone Vector DB, React.js.
+
 ### 🔹 [Full-Stack Task Manager](https://github.com/ProgrammerGuy3009/Full-stack-TaskManager)
 A modern, scalable **MERN-like** task management application with authentication, analytics, and real-time features.
 
